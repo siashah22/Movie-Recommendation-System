@@ -25,3 +25,7 @@ Features:
 3.Personalized recommendations: Suggests similar movies to the one you like.
 
 4.Continuous conversation: Keeps chatting until you say “no.”
+
+# OUTPUT 
+
+<img width="1241" height="312" alt="Image" src="https://github.com/user-attachments/assets/7c87ec73-755f-438e-a8fe-552084410412" />
