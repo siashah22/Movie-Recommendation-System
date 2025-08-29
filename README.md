@@ -23,5 +23,4 @@ Features:
 2.Voice output: The chatbot talks back to you.
 
 3.Personalized recommendations: Suggests similar movies to the one you like.
-
 4.Continuous conversation: Keeps chatting until you say “no.”
